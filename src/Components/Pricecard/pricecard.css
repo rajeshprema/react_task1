@@ -1,0 +1,55 @@
+.Pricecard{
+    height: 700px;
+    width: 1280px;
+     justify-content: space-between; 
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    border-color: black 5px;
+    background-color: rgb(182, 255, 127);
+    
+    
+
+}
+ .container{
+height: 590px;
+width: 340px;
+border-color: black 2px;
+background-color: antiquewhite;
+margin-left: 30px ;
+border-radius: 10px;
+margin-top: 45px;
+
+
+ }
+ 
+ 
+.container1 {
+ height: 590px;
+width: 340px;
+ border-color: black 2px;
+background-color: antiquewhite;
+ margin-left: 10px;
+ border-radius: 10px;
+ margin-top: 45px;
+
+
+  }
+
+
+ .container2 {
+  height: 590px;
+ width: 340px;
+ border-color: black 2px;
+ background-color: antiquewhite;
+ margin-right: 20px;
+ border-radius: 2px;
+ margin-top: 45px;
+    
+    
+ }
+ button{
+    padding: 6px 40px;
+    border-radius: 10px;
+    background-color: aqua;
+ }
